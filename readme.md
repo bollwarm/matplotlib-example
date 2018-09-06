@@ -17,7 +17,11 @@
 
 #### 练习源码，直接clone本仓库
 
-`https://github.com/bollwarm/matplotlib-example.git`
+`git clone https://github.com/bollwarm/matplotlib-example.git`
+
+没有git的用户直接通过浏览器下载一下链接
+
+`https://github.com/bollwarm/matplotlib-example/archive/0.1.zip`
 
 ## 文章链接
 
